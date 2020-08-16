@@ -1,0 +1,4 @@
+autoprefixer-cli
+
+
+html-validate- ma wyświetlać listę błędów we wszystkich plikach .html
