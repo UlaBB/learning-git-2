@@ -1,4 +1,4 @@
-autoprefixer-cli
+autoprefixer-cli -o style.prefixed.css style.css    --- komenda uruchamiająca pakiet autoprefixen
 
+html-validate index.html  ---- komedna uruchamiająca pakiet html.validate
 
-html-validate- ma wyświetlać listę błędów we wszystkich plikach .html
